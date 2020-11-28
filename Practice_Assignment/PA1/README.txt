@@ -1,0 +1,1 @@
+AI_assigment1.pl is prolog code for assigment.
