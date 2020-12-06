@@ -1,0 +1,10 @@
+heigher_studies(no).
+give_which_eaxm(not_intrested).
+buisness(yes).
+give_which_eaxm(not_intrested).
+financial(strong).
+intreact(yes).
+idea(can).
+leadership(yes).
+risk(can).
+hobbies(yes).
