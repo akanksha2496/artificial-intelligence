@@ -1,0 +1,1 @@
+Only for registered students for the course (after late drop). Not graded. Build a univariate and multivariate regression system for the chocolates examples. For iris dataset using ANN build a prediction system. Data is given for all these below.
