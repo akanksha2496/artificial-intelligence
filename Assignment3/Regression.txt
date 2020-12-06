@@ -1,1 +1,2 @@
 
+Create a high salary prediction system (as described in the assignment) for graduates based on the attached data
